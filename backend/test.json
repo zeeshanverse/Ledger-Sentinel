@@ -1,0 +1,11 @@
+{
+  "transactionId": "txn-demo",
+  "accountId": "acct-7",
+  "amount": 92000,
+  "balanceBefore": 100000,
+  "balanceAfter": 8000,
+  "country": "IN",
+  "merchantCategory": "CRYPTO",
+  "hour": 2,
+  "velocity15m": 7
+}
